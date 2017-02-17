@@ -3,6 +3,9 @@
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
+![Chat](http://i67.tinypic.com/23wa90k.png)
+
+
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
