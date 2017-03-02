@@ -16,7 +16,6 @@
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
-    "embark": "git+https://github.com/mike-north/embark.git",
     "ember-ajax": "^2.4.1",
     "ember-cli": "2.11.1",
     "ember-cli-app-version": "^2.0.0",
@@ -34,6 +33,7 @@
     "ember-cli-test-loader": "^1.1.0",
     "ember-cli-uglify": "^1.2.0",
     "ember-data": "^2.11.0",
+    "ember-embark": "~0.1.3",
     "ember-export-application-global": "^1.0.5",
     "ember-font-awesome": "3.0.3",
     "ember-load-initializers": "^0.6.0",
